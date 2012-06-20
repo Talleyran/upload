@@ -1,2 +1,2 @@
 
-gxp.plugins.Username.prototype.uploadText = 'Закачать';
+gxp.plugins.Username.prototype.uploadText = 'Скачать';
